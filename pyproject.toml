@@ -9,7 +9,7 @@ license = "MIT License"
 python = "^3.9"
 pycodestyle = "^2.8.0"
 Pillow = "^9.0.1"
-Django = "^4.0.7"
+Django = "^4.0.8"
 
 [tool.poetry.dev-dependencies]
 
